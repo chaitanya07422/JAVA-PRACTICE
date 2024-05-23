@@ -1,0 +1,10 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "vscode for  java/src",
+        "Linkedlist",
+        ".vscode/stacks",
+        ".vscode/recursion",
+        "vscode for  java"
+    ]
+}
